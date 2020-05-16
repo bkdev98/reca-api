@@ -1,0 +1,13 @@
+{
+  "name": "reca-api",
+  "version": "1.0.0",
+  "description": "api for reca app",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "deno run index.ts"
+  },
+  "repository": "https://github.com/bkdev98/reca-api.git",
+  "author": "bkdev98",
+  "license": "MIT",
+  "private": false
+}
